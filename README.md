@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente tentando entrar na faculdade
 - 🌱 Estudando Python, Java e Game Design
-- 📫 Contate-me pelo e-mail: jv.pandart@gmail.com
 - 😄 Pronouns: Ele/Ela - Dele/Dela
 
 ##
