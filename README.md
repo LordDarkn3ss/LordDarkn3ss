@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente tentando entrar na faculdade
 - 🌱 Estudando Python, Java e Game Design
-- 😄 Pronouns: Ele/Ela - Dele/Dela
 
 ##
 
