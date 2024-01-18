@@ -1,6 +1,6 @@
 ### Eu sou VII, Game Dev
 
-- 🔭 Atualmente tentando entrar na faculdade
+- 🔭 Atualmente cursando Engenharia de Softwares
 - 🌱 Estudando Python, Java e Game Design
 
 ##
